@@ -1,3 +1,4 @@
+--selecting data base
 use kpmg
 
 --CUSTOMER DEMOGRAPHIC TABLE
